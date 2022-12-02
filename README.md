@@ -24,5 +24,4 @@ Structure of report:
 Bibliography: this is super easy in latex as long as we have sources to cite. 
 
 **Links to Overeleaf document**
-This is an edit link: https://www.overleaf.com/3749323523spnwhnfzrhvn 
-This is a view-only link (for when we submit the github on Sakai we will want to remove the edit link above just in case): https://www.overleaf.com/read/hkhjbmzwtghs 
+This is a view-only link (for when we submit the github on Sakai): https://www.overleaf.com/read/hkhjbmzwtghs 
